@@ -1,0 +1,16 @@
+@media (max-width: 1200px) {
+
+    .cabecalho__menu {
+        padding: 10%;
+        justify-content: center;
+    }
+
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao__conteudo {
+        width: auto;
+    }
+}
